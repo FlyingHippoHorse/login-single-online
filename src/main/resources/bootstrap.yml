@@ -1,0 +1,11 @@
+spring:
+  thymeleaf:
+    cache: false
+# 用户信息配置
+# 用户信息配置
+
+#myusr:
+#  users:
+#    tom: tom1234
+#    jack: jack1234
+#    bman: b1234
